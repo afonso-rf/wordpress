@@ -2,6 +2,8 @@
 
 Criado um .yaml para rodar com o docker-compose. 
 
+
+
 IMAGE_API_TAG => Variavel de ambiente para a tag da imagem do Wordpress.
 
 IMAGE_DB_TAG => Variavel de ambiente para a tag da imagem do MariaDB.
@@ -11,6 +13,7 @@ DB_ROOT_PASSWORD => Variavel de ambiente para a senha ROOT do MariaDB.
 DB_USERNAME => Variavel de ambiente para o usurario do MariaDB.
 
 DB_PASSWORD => Variavel de ambiente para a senha de usuario do MariaDB.
+
 
 
 
@@ -26,6 +29,7 @@ MYSQL_USER => Usuario para acesso ao MariaDB
 MYSQL_PASSWORD => Senha do usuario para acesso ao MariaDB
 
 MYSQL_DATABASE => Nome do DB no MariaDB
+
 
 
 
